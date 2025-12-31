@@ -1,4 +1,4 @@
-# Mobile and Laptop Sales Data Analysis & Dashboard
+# Mobile and Laptop Sales Data Analysis & Dashboard (Tech-Product-Sales-Analysis)
 **Course:** IFT 533: Data Visualization and Reporting for IT  
 
 ## 📌 Project Overview

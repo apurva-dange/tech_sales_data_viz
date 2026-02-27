@@ -68,8 +68,8 @@ The final Tableau dashboard provides a comprehensive view of sales performance. 
 ## Data Dashboard Snapshot
 
 <p align="center">
-  <img src="https://github.com/AppyDange/strategy-analysis-of-ai-in-healthcare-industry/blob/main/ScreenRecording2025-11-21at4.22.11PM-ezgif.com-video-to-gif-converter%20(1).gif?raw=true" 
-       alt="Interactive Demo GIF" width="40%" />
+  <img src="https://github.com/apurva-dange/tech_sales_data_viz/blob/main/dataviz.gif" 
+       alt="Interactive Demo GIF" width="80%" />
 </p>
 
 ## 🛠️ Tools Used

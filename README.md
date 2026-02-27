@@ -65,6 +65,13 @@ The final Tableau dashboard provides a comprehensive view of sales performance. 
     * **RAM/ROM Combo:** A dot plot identifying the most popular memory configurations.
     * **Price Range:** A box plot analysis of pricing distributions and outliers.
 
+## Data Dashboard Snapshot
+
+<p align="center">
+  <img src="https://github.com/AppyDange/strategy-analysis-of-ai-in-healthcare-industry/blob/main/ScreenRecording2025-11-21at4.22.11PM-ezgif.com-video-to-gif-converter%20(1).gif?raw=true" 
+       alt="Interactive Demo GIF" width="40%" />
+</p>
+
 ## 🛠️ Tools Used
 * **Tableau:** For final dashboard creation and visualization.
 * **Python (Pandas):** For data cleaning and preprocessing (dropping irrelevant columns like text-based specifications).

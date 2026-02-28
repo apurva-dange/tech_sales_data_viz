@@ -77,6 +77,30 @@ The final Tableau dashboard provides a comprehensive view of sales performance. 
 * **Python (Pandas):** For data cleaning and preprocessing (dropping irrelevant columns like text-based specifications).
 * **Mural:** For project planning, brainstorming, and wireframing.
 
+## 🧠 Key Skills & Competencies
+
+### 📈 Analytical Skills
+- Exploratory Data Analysis (EDA)
+- KPI tracking & performance monitoring
+- Sales trend analysis & year-over-year comparisons
+- Outlier detection & statistical summarization
+- Data cleaning & transformation (ETL)
+- Cohort analysis & customer segmentation
+
+### 📊 Business Intelligence
+- Interactive dashboard design & layout
+- Stakeholder reporting & data storytelling
+- Cross-functional data communication (Sales, Marketing, Inventory)
+- Translating business questions into visual insights
+- Requirement gathering & user-centered design
+
+### 🛠️ Technical
+- Python (Pandas, NumPy) - data wrangling, null handling, feature engineering
+- Tableau - calculated fields, dynamic filters, parameters, LOD expressions, Tableau Public publishing
+- Data aggregation & pipeline preprocessing
+- Chart selection & pre-attentive attribute design (color, size, position)
+- Large-scale dataset handling (50,000+ records)
+
 ## 🔗 Links
 * **Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/views/Mobile_phone_new/Final_Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 * **Dataset:** [Kaggle - Mobile and Laptop Sales Data](https://www.kaggle.com/datasets/vinothkannaece/mobiles-and-laptop-sales-data/data)
